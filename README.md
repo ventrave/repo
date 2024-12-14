@@ -12,5 +12,5 @@ Most files are missing since they can be logically obtained anyway. I just place
   ```/usr/bin/open /Applications/Roblox.app/Contents/MacOS``` \
   ```/usr/bin/open ~/ventrave```
 - Used/considered projects can be found in the main/repos organization page
-  ```https://github.com/orgs/ventrave```
+  ```https://github.com/orgs/ventrave``` \
   ```https://github.com/orgs/ventrave/repositories```
