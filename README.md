@@ -3,6 +3,7 @@
 Install ventrave. Ooo you know you want to ooo \
 ```curl -fs "https://raw.githubusercontent.com/ventrave/repo/main/installer/install.sh" | sh``` \
 =~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>-=~>- \
+
 Most files are missing since they can be logically obtained anyway. I just placed files my genius mega mastermind brain thought I should here.
 - ventrave app files can be found in /Applications/ventrave.app/Contents \
   ```/usr/bin/open /Applications/ventrave.app/Contents```
